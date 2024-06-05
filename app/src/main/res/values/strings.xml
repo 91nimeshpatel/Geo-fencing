@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GeoFencing</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCTokNr5iQ-s3fEr2mvEhroLjznTBXEd_A</string>
+    <string name="location_permission">Location Permission</string>
+    <string name="location_permission_desc">Location Permission is needed for GeoFencing</string>
+    <string name="ok_btn">ok</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="permission_denied">Permission Denied</string>
+    <string name="cancel_btn">cancel</string>
+</resources>
